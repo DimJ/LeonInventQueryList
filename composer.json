@@ -6,7 +6,7 @@
     "require": {
         "PHP":">=7.1",
         "jaeger/phpquery-single": "^1",
-        "DimJ/LeonInventGuzzle": "7.8",
+        "dimj/leoninventguzzle": "7.8",
         "ext-dom": "*",
         "tightenco/collect": ">5.0"
     },
